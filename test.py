@@ -1,3 +1,4 @@
 y = 4
-x = "Sally"
-print(y)
+x = 34
+sum=x+y
+print("this is sum of x and y",sum)

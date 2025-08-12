@@ -1,3 +1,3 @@
-x = 4
+y = 4
 x = "Sally"
-print(x)
+print(y)
